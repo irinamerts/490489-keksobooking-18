@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Мерц](https://up.htmlacademy.ru/javascript/18/user/490489).
-* Наставник: `Неизвестно`.
+* Наставник: `Артем Макаров`.
 
 ---
 
